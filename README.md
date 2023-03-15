@@ -25,4 +25,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plai
 
 <hr>
   
-![Snake animation](https://github.com/Lourencobrah/LucasCDutra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LucasCDutra/LucasCDutra/blob/output/github-contribution-grid-snake.svg)
